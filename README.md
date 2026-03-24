@@ -63,7 +63,7 @@
 
 ### 📜 Certifications
 
-- 🎓 Data Analysis Certification (In Progress / Completed)
+- 🎓 Data Analysis Certification
 - 🐍 Python for Data Science
 - 📊 Power BI / Excel for Data Analytics
 
