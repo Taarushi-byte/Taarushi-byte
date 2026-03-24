@@ -51,6 +51,32 @@
 
 ---
 
+### 🏆 Achievements & Certifications
+
+- 🥇 Completed Data Analysis projects using **Python, SQL, Power BI**
+- 📊 Built interactive dashboards for real-world datasets
+- 🧠 Hands-on experience in **Machine Learning (Regression Models)**
+- 🕷️ Developed web scraping projects using Python
+- 📈 Strong understanding of data cleaning, visualization & insights
+
+---
+
+### 📜 Certifications
+
+- 🎓 Data Analysis Certification (In Progress / Completed)
+- 🐍 Python for Data Science
+- 📊 Power BI / Excel for Data Analytics
+
+---
+
+### 💡 What I Bring
+
+- 🔍 Analytical thinking & problem-solving  
+- 📊 Data storytelling & visualization  
+- ⚡ Ability to turn raw data into actionable insights  
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tarushi-mahesh-080983260/">
@@ -59,13 +85,6 @@
   <a href="mailto:tarushimahesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Taarushi-byte&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
