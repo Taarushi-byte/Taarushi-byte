@@ -1,4 +1,3 @@
-<img src="https://github.com/Taarushi-byte/Taarushi-byte/blob/main/banner.png" />
 <h1 align="center">Hi 👋, I'm Taarushi</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Insights</h3>
 
