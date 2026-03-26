@@ -8,9 +8,10 @@
 
 ## 🧠 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%">
+
+<td width="70%">
 
 - 📊 Passionate about Data Analysis & Visualization  
 - 🐍 Skilled in Python, SQL & Power BI  
@@ -20,11 +21,16 @@
 
 </td>
 
-<td width="35%" align="right">
+<td width="30%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+<div align="right">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
+</div>
 
 </td>
+
 </tr>
 </table>
 
