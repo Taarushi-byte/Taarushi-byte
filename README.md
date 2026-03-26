@@ -1,9 +1,6 @@
-<!-- 🔧 REMOVE TOP GAP -->
-<h3 align="center"></h3>
-
-<!-- 🎨 BANNER (MOVED UP) -->
+<!-- 🎨 ANIMATED BANNER -->
 <p align="center">
-  <img src="https://github.com/Taarushi-byte/Taarushi-byte/blob/main/banner.png" style="margin-top:-25px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Taarushi</h1>
