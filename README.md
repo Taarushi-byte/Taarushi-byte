@@ -1,23 +1,32 @@
-<!-- 🎨 ANIMATED BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Taarushi</h1>
 
-<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Future+Data+Scientist" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="60%">
+
 - 📊 Passionate about Data Analysis & Visualization  
 - 🐍 Skilled in Python, SQL & Power BI  
 - 🌱 Currently learning Machine Learning  
 - 🎯 Goal: Become a Data Scientist  
 - ⚡ Fun fact: I turn data into meaningful stories  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
