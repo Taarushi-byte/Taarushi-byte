@@ -8,25 +8,13 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="70%" valign="top">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 - 📊 Passionate about Data Analysis & Visualization  
 - 🐍 Skilled in Python, SQL & Power BI  
 - 🌱 Currently learning Machine Learning  
 - 🎯 Goal: Become a Data Scientist  
 - ⚡ Fun fact: I turn data into meaningful stories  
-
-</td>
-
-<td width="30%" align="right" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
