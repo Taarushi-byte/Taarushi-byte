@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-
-<div>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 - 📊 Passionate about Data Analysis & Visualization  
 - 🐍 Skilled in Python, SQL & Power BI  
@@ -18,11 +18,15 @@
 - 🎯 Goal: Become a Data Scientist  
 - ⚡ Fun fact: I turn data into meaningful stories  
 
-</div>
+</td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<td width="30%" align="right" valign="top">
 
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
