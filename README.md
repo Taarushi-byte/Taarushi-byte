@@ -33,7 +33,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Taarushi-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<b>Total Contributions: 119</b>  
+<br>
+<b>Current Streak: 0</b>  
+<br>
+<b>Longest Streak: 3</b>  
 </p>
 
 <p align="center">
