@@ -34,7 +34,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Taarushi-byte&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taarushi-byte&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Taarushi-byte&theme=tokyonight" />
 </p>
 
 ---
