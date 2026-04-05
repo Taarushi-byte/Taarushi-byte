@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Taarushi-byte&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taarushi-byte&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Taarushi-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taarushi-byte&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
