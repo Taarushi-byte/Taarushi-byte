@@ -39,14 +39,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taarushi-byte&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Taarushi-byte/github-snake/output/snake.svg)
