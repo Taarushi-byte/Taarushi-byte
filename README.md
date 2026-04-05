@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
 - 📊 Passionate about Data Analysis & Visualization  
 - 🐍 Skilled in Python, SQL & Power BI  
@@ -30,18 +30,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Dashboard
 
 <p align="center">
-<b>Total Contributions: 119</b>  
-<br>
-<b>Current Streak: 0</b>  
-<br>
-<b>Longest Streak: 3</b>  
+  <img src="https://img.shields.io/badge/🚀%20Active%20Days-30+-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📈%20Growth%20Trend-Rising-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Consistency-Strong-FF6F00?style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taarushi-byte&theme=tokyo-night&hide_border=true" />
+<b>💡 Building skills daily & actively contributing to real-world projects</b>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taarushi-byte&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C853&line=00C853&point=ffffff&area=true&custom_title=🚀%20Taarushi's%20Activity%20Momentum" />
 </p>
 
 ---
